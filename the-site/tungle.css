@@ -1,0 +1,170 @@
+body {
+	background-color:#35465c
+}
+
+p.tungle {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size: 25px;
+	color:#f8f8ff;
+	text-align:top-left;
+	font-weight:bold;
+}
+
+p.loggy {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size: 15px;
+	color:#f8f8ff;
+	position:absolute;
+	top:20px;
+	right:50px;
+}
+
+p.snettings {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size: 15px;
+	color:#f8f8ff;
+	position:absolute;
+	top:20px;
+	right:230px;
+}
+
+p.mail {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	color:#f8f8ff;
+	position:absolute;
+	top:20px;
+	right:340px;
+}
+
+p.home {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	color:#f8f8ff;
+	position:absolute;
+	top:20px;
+	right: 530px;
+}
+
+p.text {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	position:absolute;
+	top:200px;
+	left:200px;
+	padding:10px;
+	border:10px #f8f8ff;
+	border-style:solid;
+	background-color:#f8f8ff;
+}
+
+p.picture {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	position:absolute;
+	top:200px;
+	left:283px;
+	padding:10px;
+	border:10px #f8f8ff;
+	border-style:solid;
+	background-color:#f8f8ff;
+}
+p.talk {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	position:absolute;
+	top:200px;
+	left: 400px;
+	padding:10px;
+	border:10px #f8f8ff;
+	border-style:solid;
+	background-color:#f8f8ff;
+}
+
+p.net {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	position:absolute;
+	top:200px;
+	left:510px;
+	padding:10px;
+	border:10px #f8f8ff;
+	border-style:solid;
+	background-color:#f8f8ff;
+}
+
+p.interac {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	position:absolute;
+	top:200px;
+	left:600px;
+	padding:10px;
+	border:10px #f8f8ff;
+	border-style:solid;
+	background-color:#f8f8ff;
+}
+
+p.tunez {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	position:absolute;
+	top:200px;
+	left:750px;
+	padding:10px;
+	border:10px #f8f8ff;
+	border-style:solid;
+	background-color:#f8f8ff;
+}
+
+p.vidoeb {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	position:absolute;
+	top:200px;
+	left:825px;
+	padding:10px;
+	border:10px #f8f8ff;
+	border-style:solid;
+	background-color:#f8f8ff;
+}
+
+img.fire {
+	position:absolute;
+	top: 400px;
+	left: 600px;
+	width: 267px;
+	height: 200.5px;
+}
+
+a {
+	color:#f8f8ff;
+}
+
+p.mrlog {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	color:#f8f8ff;
+}
+
+p.getme {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:15px;
+	color:#f8f8ff;
+}
+
+img.gear {
+	position:absolute;
+	top:100px;
+	right:512px;
+}
+
+p.see {
+	font-weight:bold;
+	font-size:20px;
+	color:#f8f8ff;
+	text-decoration:blink;
+	position:absolute;
+	top:612px;
+	left:560px;
+}
