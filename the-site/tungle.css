@@ -137,7 +137,7 @@ img.fire {
 	height: 200.5px;
 }
 
-a {
+a.reg {
 	color:#f8f8ff;
 }
 
@@ -167,4 +167,15 @@ p.see {
 	position:absolute;
 	top:612px;
 	left:560px;
+}
+
+input.texts {
+	font-family:"Comic Sans MS", sans-serif;
+	position:relative;
+	height:90%;
+	width:90%;
+}
+
+a.box {
+	color:#000000;
 }
